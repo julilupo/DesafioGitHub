@@ -320,6 +320,7 @@ footer{
 
 .galeriaTienda div img:hover{
     border: solid black 10px;
+    transform: scale(1.2);
 }
 
 .galeriaTienda div p{
